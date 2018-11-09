@@ -1,8 +1,7 @@
 {
     "name": "teemo/teemo",
     "description": "Teemo personal library",
-    "minimum-stability": "dev",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "LessCodeToDoMore",
