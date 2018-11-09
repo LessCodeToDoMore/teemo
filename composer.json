@@ -1,0 +1,21 @@
+{
+    "name": "Teemo/teemo",
+    "description": "Teemo personal library",
+    "minimum-stability": "dev",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "LessCodeToDoMore",
+            "email": "2506505996@qq.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/LessCodeToDoMore/teemo/issues"
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lib\\": "src/lib"
+        }
+    }
+}
